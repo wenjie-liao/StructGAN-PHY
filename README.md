@@ -1,5 +1,5 @@
 # StructGAN-PHY
-.[StructGAN](https://github.com/wenjie-liao/StructGAN_v1) coupled with physical analysis
+[StructGAN](https://github.com/wenjie-liao/StructGAN_v1) coupled with physical analysis
 
 # OpenCV-based pixel drawing to structural component vector
 ![image](https://github.com/wenjie-liao/StructGAN-PHY/blob/main/pixel2vector.png)
