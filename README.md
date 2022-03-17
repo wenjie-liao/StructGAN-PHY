@@ -9,6 +9,6 @@
 
 
 # Paper
-Xinzheng Lu, Wenjie Liao, Yu Zhang, and Yuli Huang. 
+{Xinzheng Lu, Wenjie Liao, Yu Zhang, and Yuli Huang. 
 Intelligent structural design of shear wall residence using physics-enhanced generative adversarial networks.
-Earthquake Engineering and Structural Dynamics. 2022
+Earthquake Engineering and Structural Dynamics. 2022](https://onlinelibrary.wiley.com/doi/10.1002/eqe.3632)
